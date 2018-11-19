@@ -43,4 +43,4 @@ Check accuracy: softmax cross entropy [here is the explane of this](https://kaka
 
 Sung Kim -Tensorboard code [here is github of him](https://github.com/hunkim) <br />
 Professor Yongseok Yoo – Advisor [here is github of him](https://github.com/ys7yoo) <br/>
-Making dataset - codes[here is the site](https://medium.com/trackin-datalabs/data-input-%EB%A7%8C%EB%93%A4%EA%B8%B0-74bb5c1ce52f) <br />
+Making dataset - codes [here is the site](https://medium.com/trackin-datalabs/data-input-%EB%A7%8C%EB%93%A4%EA%B8%B0-74bb5c1ce52f) <br />

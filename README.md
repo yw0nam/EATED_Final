@@ -27,10 +27,11 @@ Layer 3 data shape = 128  <br />
 Layer 4 data shape = 64 <br />
 Layer 5 data shape = 10 (Label shape) <br />
 Number of layers :5 <br />
+Learning rate = 0.001 <br />
+Drop out = 0.7  <br />
 <br />
 Optimize algorithm: Adam optimizer  [here is the paper of optimzer](https://arxiv.org/pdf/1412.6980.pdf) 
 <br />
-
 Check accuracy: softmax cross entropy [here is the explane of this](https://kakalabblog.wordpress.com/2017/04/04/cross-entropy-%EC%A0%95%EB%A6%AC/) <br />   
 
 

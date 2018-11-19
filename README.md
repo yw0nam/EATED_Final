@@ -27,6 +27,7 @@ Layer 3 data shape = 128  <br />
 Layer 4 data shape = 64 <br />
 Layer 5 data shape = 10 (Label shape) <br />
 Number of layers :5 <br />
+<br />
 Learning rate = 0.001 <br />
 Drop out = 0.7  <br />
 <br />

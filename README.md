@@ -50,7 +50,7 @@ Check accuracy: softmax cross entropy [here is the explane of this](https://kaka
 X axis = The dataset use to train the model <br />
 Y axis = The dataset use to test the model <br />
 
-So, Same color block is same model
+The accuracies has error ±1~2%
 ## Reference <br />
 
 Sung Kim -Tensorboard code [here is github of him](https://github.com/hunkim) <br />

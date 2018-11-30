@@ -23,14 +23,14 @@ All of code is using jupyter notebook and python
 <img src = "https://user-images.githubusercontent.com/39719936/48716536-eb147b80-ec5a-11e8-98d5-3c4675de6e3d.png" width = "60%"> </img><br />
 Using model is Fully connected Deep neural network. <br />
 <br />
-There is input layer, output layer, and 4 hidden layer. <br />
+There is input layer, output label, and 4 hidden layer. <br />
 
 Input Layer shape = 784 * 512  <br />
 Hidden Layer 1 layer shape = 512 * 256  <br />
 Hidden Layer 2 layer shape = 256 * 128 <br />
 Hidden Layer 3 layer shape = 128 * 64 <br />
 Hidden Layer 4 layer shape = 64  * 10 <br />
-Output Layer shape = 10 (Label shape) <br />
+Output shape = 10 (Label shape) <br />
 Number of layers :5 <br />
 <br />
 Learning rate = 0.001 <br />

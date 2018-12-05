@@ -54,7 +54,7 @@ The accuracies has error ±1~2%
 ## Conclusion and Next plan <br />
 
 As you can see the above graph, the accuracy isn't good. <br />
-But this projcet is my first projcet of machine learning, and this project good exprience for me. <br />
+But this projcet is my first projcet of machine learning, and this project was good exprience for me. <br />
 During this project, i learned how to pre-processing and make dataset from images. <br />
 Furthermore, I adopt the machine learning with tensorflow, made own dateset, how to upload the files in github. <br />
 This technics will be helpful for next my machine learning project. <br />
